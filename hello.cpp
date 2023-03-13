@@ -17,6 +17,7 @@ int main(void) {
 	cout << "Enter a number to be cubed: ";
 	cin >> c;
 	cout << "The cube of " << c << " is " << cube(c) << endl;
+	cout << "Hello World!";
     return 0;
 }
 
